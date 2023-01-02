@@ -4,8 +4,6 @@
 # In[ ]:
 
 
-# DONT FORGET TO ADD COMMENTS
-
 
 # In[65]:
 
